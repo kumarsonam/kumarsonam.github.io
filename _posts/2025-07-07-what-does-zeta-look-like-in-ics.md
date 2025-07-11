@@ -1,9 +1,7 @@
-
-
 ---
-
 layout: post  
 title: "07 July 25 — What Does ζ(s) Look Like in ICS?"  
+author: Sonam Kumar
 date: 2025-07-07  
 categories: [Mathematics, Fractals, Sonam’s Number Theory]  
 tags: [Riemann zeta, fractal determinism, probability, chaos theory]
