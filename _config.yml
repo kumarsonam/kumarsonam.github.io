@@ -1,5 +1,6 @@
-
-title: Sonam Kumar
-description: IPS Officer | Fractal Harmonics | Metaphysical Mathematics
+title: Sonam’s Journal
 baseurl: ""
 url: "https://kumarsonam.in"
+theme: minima
+plugins:
+  - jekyll-feed
