@@ -1,6 +1,8 @@
 ---
-title: Axiom of Recursive Unity
+layout: post
+title: "Axiom of Recursive Unity"
 date: 2025-07-11
+tags: [SNT, ICS, axioms]
 ---
 
 _Visualizing Infinity in Layers_
