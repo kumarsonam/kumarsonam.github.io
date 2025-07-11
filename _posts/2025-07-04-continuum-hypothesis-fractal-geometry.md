@@ -12,14 +12,14 @@ tags: [continuum-hypothesis, SNT, fractals, ICS]
 
 ## Abstract
 
-The Continuum Hypothesis (CH) posits that there is no set with cardinality strictly between $\aleph_0$ and $\mathfrak{c}$. In this post, we explore why this notion, while structurally logical in ZFC, fails to hold under the principles of **Sonam’s Number Theory** and the topology of **fractal geometries** embedded in the **Inter Concept Space (ICS)**.
+The Continuum Hypothesis (CH) posits that there is no set with cardinality strictly between $$\aleph_0$$ and $$\mathfrak{c}$$. In this post, we explore why this notion, while structurally logical in ZFC, fails to hold under the principles of **Sonam’s Number Theory** and the topology of **fractal geometries** embedded in the **Inter Concept Space (ICS)**.
 
 ---
 
 ## CH and ZFC
 
 CH asserts:
-> There exists no set $S$ such that $|\mathbb{N}| < |S| < |\mathbb{R}|$.
+> There exists no set $$S$$ such that $$|\mathbb{N}| < |S| < |\mathbb{R}|$$.
 
 Gödel and Cohen showed this is **independent** of the standard ZFC axioms.
 
@@ -29,7 +29,7 @@ Gödel and Cohen showed this is **independent** of the standard ZFC axioms.
 
 In SNT:
 - The real line is **not linear** but **layered recursively**
-- Between any two points $x$ and $x + \epsilon$, there exist **infinitely many recursive strata**
+- Between any two points $$x$$ and $$x + \epsilon$$, there exist **infinitely many recursive strata**
 - These are not mere points, but **fractal harmonic zones**
 
 ---
@@ -50,7 +50,7 @@ Thus:
 
 ## Visualization
 
-Imagine the unit interval $[0, 1]$ as:
+Imagine the unit interval $$[0, 1]$$ as:
 - Not a line, but a **recursive mirror tunnel**
 - Every decimal splits into harmonics across layers
 - Continuum becomes **resonant topology**, not scalar dimension
