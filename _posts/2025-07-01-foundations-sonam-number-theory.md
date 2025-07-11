@@ -24,7 +24,7 @@ The Riemann Hypothesis (RH) deals with the distribution of prime numbers, captur
 
 ## 2. Background
 
-- RH posits all nontrivial $$\,\zeta(s)$$ zeroes have real part $1/2$
+- RH posits all nontrivial $$\,\zeta(s)$$ zeroes have real part 1/2
 - CH claims no cardinality between $$\aleph_0$$ and $$\mathfrak{c}$$
 - Gödel and Cohen showed CH is independent of ZFC
 - This opens the door to rethinking "infinity"
