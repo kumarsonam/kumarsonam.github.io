@@ -18,14 +18,14 @@ We present a reformulation of the Riemann Hypothesis within a novel mathematical
 
 ## 1. Introduction
 
-The Riemann Hypothesis (RH) deals with the distribution of prime numbers, captured by the nontrivial zeroes of the zeta function on the critical line $\,\Re(s) = 1/2$. The Continuum Hypothesis (CH), independent of ZFC, questions the nature of infinities. This paper proposes a speculative but structured reformulation of RH within a new domain — **Sonam’s Number Theory (SNT)** embedded in **ICS**.
+The Riemann Hypothesis (RH) deals with the distribution of prime numbers, captured by the nontrivial zeroes of the zeta function on the critical line $$\,\Re(s) = 1/2$$. The Continuum Hypothesis (CH), independent of ZFC, questions the nature of infinities. This paper proposes a speculative but structured reformulation of RH within a new domain — **Sonam’s Number Theory (SNT)** embedded in **ICS**.
 
 ---
 
 ## 2. Background
 
-- RH posits all nontrivial $\,\zeta(s)$ zeroes have real part $1/2$
-- CH claims no cardinality between $\aleph_0$ and $\mathfrak{c}$
+- RH posits all nontrivial $$\,\zeta(s)$$ zeroes have real part $1/2$
+- CH claims no cardinality between $$\aleph_0$$ and $$\mathfrak{c}$$
 - Gödel and Cohen showed CH is independent of ZFC
 - This opens the door to rethinking "infinity"
 
@@ -49,14 +49,14 @@ Infinity exists in layers of expansion, not as a scalar blow-up.
 
 ## 4. Fractal Harmonic Layers and Recursive Zeroes
 
-In this view, $\,\zeta(s)$ projects harmonic structures from ICS. The zeroes are not isolated roots, but fixed points in **harmonic propagation** — intersections of self-similar fields.
+In this view, $$\,\zeta(s)$$ projects harmonic structures from ICS. The zeroes are not isolated roots, but fixed points in **harmonic propagation** — intersections of self-similar fields.
 
 ---
 
 ## 5. Reformulating the Continuum
 
 Traditional continuum = dense linear infinity.  
-New view: $\mathfrak{c}$ = composite of recursive zeroes → uncountably many self-similar micro-realities between any two classical reals.  
+New view: $$\mathfrak{c}$$ = composite of recursive zeroes → uncountably many self-similar micro-realities between any two classical reals.  
 CH becomes **structurally meaningless**.
 
 ---
