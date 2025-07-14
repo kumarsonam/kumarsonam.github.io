@@ -32,7 +32,10 @@ By following these steps and using analogies, a beginner can start to grasp what
 
 The Riemann zeta function ζ(s) is a function of a complex variable s=σ+its = \sigma + it (where σ, t are real) defined by an infinite series. For real part σ > 1, it is
 
-ζ(s)=1−s+2−s+3−s+⋯=∑n=1∞1ns.ζ(s) = 1^{-s} + 2^{-s} + 3^{-s} + \cdots = \sum_{n=1}^\infty \frac{1}{n^s}.
+$$
+\\zeta(s) = 1^{-s} + 2^{-s} + 3^{-s} + \\cdots = \\sum_{n=1}^{\\infty} \\frac{1}{n^s}
+$$
+
 
 This series definition is from Euler and Riemann’s work in the 18th and 19th centuries. ζ(s) can then be extended (analytically continued) to other values of s beyond σ > 1. The function ζ(s) is famous in number theory: it connects to the distribution of prime numbers and appears in many areas of math, physics, and even probability.
 
