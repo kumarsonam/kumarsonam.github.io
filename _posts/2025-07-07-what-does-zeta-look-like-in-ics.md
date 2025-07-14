@@ -41,7 +41,7 @@ $$
 This series definition is from Euler and Riemann’s work in the 18th and 19th centuries. ζ(s) can then be extended (analytically continued) to other values of s beyond σ > 1. The function ζ(s) is famous in number theory: it connects to the distribution of prime numbers and appears in many areas of math, physics, and even probability.
 
 To visualize ζ(s), picture the complex plane: the horizontal axis is σ = Re(s) and the vertical axis is t = Im(s). At each point (σ, t), ζ(s) gives a complex number, which we can color-code or plot as a surface. For example, the following image shows ζ(s) over a range of σ and t (color indicates value):
-![[20250712021109.png]]
+![Zeta Plot](/assets/images/20250712021109.png)
 _Figure: Visualization of the Riemann zeta function ζ(s) on the complex plane (horizontal axis = Re(s), vertical = Im(s)). Bright colors or contours represent the magnitude of ζ(s), revealing waves and patterns. (Image by Jan Homann, public domain.)_
 
 In that plot, you can see repeating band patterns emanating leftwards from the vertical line at Re(s)=1. These bands are not random: they arise from the oscillating complex values of ζ(s). The red region (to the right) is where ζ(s) has very large magnitude (it actually has a pole at s=1). The colorful fringes (greens, blues, etc.) to the left hint at the non-trivial structure of ζ(s). For a beginner, it’s enough to know: **ζ(s) looks like a colorful, wave-like pattern on the complex plane**. At different heights (t values), ζ(s) oscillates and creates repeating patterns.
@@ -53,7 +53,7 @@ In that plot, you can see repeating band patterns emanating leftwards from the v
 A fractal is a shape or pattern that repeats itself at different scales. Natural examples include fern leaves, snowflakes, coastlines, and some patterns in art. Fractals have _self-similarity_: zooming in on part of the shape looks similar to the whole. A key idea is the _fractal dimension_, which quantifies how complex a pattern is as you zoom (Wikipedia defines it as a measure of detail vs. scale).
 
 To see fractals intuitively, consider the Barnsley fern image below:
-![[20250712021122.png]]
+![Zeta Plot](/assets/images/20250712021122.png)
 _Figure: Barnsley fern fractal (a computer-generated graphic). Notice how the large leaf is made of many smaller leaflets, each of which resembles the whole frond. This nesting of patterns at multiple scales is the hallmark of fractals._
 
 In the Barnsley fern, each big “fern leaf” is composed of smaller copies of itself, ad infinitum. Mathematically, the fractal dimension of the fern is between 1 and 2 (it’s more complex than a line but not fully two-dimensional). The image above (public domain) is a classic example of a simple formula producing an infinitely detailed shape.
