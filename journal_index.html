@@ -7,7 +7,7 @@ title: Journal Index
 <p>This page lists deep dives, research entries, and zettelkasten notes.</p>
 
 <ul>
-  {% assign journal_posts = site.posts | where_exp: "post", "post.categories contains 'Mathematics' or post.categories contains 'Fractals' or post.categories contains 'Sonam’s Number Theory'" %}
+  {% assign journal_posts = site.posts | where_exp: "post", "post.categories contains 'Mathematics' or post.categories contains 'Fractals'" %}
   {% for post in journal_posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a> — <em>{{ post.date | date: "%d %B %Y" }}</em><br/>
